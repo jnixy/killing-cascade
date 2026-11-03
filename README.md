@@ -2,7 +2,7 @@
 
 Code and data for:
 
-> Nix, J., & Adams, I. T. (in press). The killing cascade: More officers, more wounds, more deaths in police shootings. *Police Quarterly*.
+> Nix, J., & Adams, I. T. (in press). The killing cascade: More officers, more wounds, more deaths in police shootings. *Police Quarterly*. https://doi.org/10.1177/10986111261507732
 
 **Preprint:** [CrimRxiv](https://www.crimrxiv.com/pub/7mj8aj3g)
 
