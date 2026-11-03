@@ -1,0 +1,2 @@
+tji_rows_raw,tji_last_incident,tji_duplicate_rows,tji_duplicate_people,tji_rows_after_merge,oag_extension_people,oag_missing_from_tji_candidates,oag_missing_from_tji_likely_dup,oag_missing_from_tji_added,oag_reports_parsed,validation_tji_rows,validation_min_pct,validation_max_pct,validation_tji_count_eq_listing_pct,attr_link_agree_pct,counts_verified,counts_changed,counts_lower,counts_higher
+1674,2024-08-26,40,20,1654,259,71,22,49,2079,905,99.56,99.89,97.94,99.89,1463,55,28,27

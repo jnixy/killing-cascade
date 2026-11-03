@@ -1,0 +1,12 @@
+state,step,n,fatal_pct
+Texas,All OAG-reported civilians shot (TJI),1962,58.05300713557594
+Texas,"White, Black, or Hispanic",1907,57.94441531200839
+Texas,Age recorded,1902,57.99158780231335
+Texas,Gender recorded (regression sample),1902,57.99158780231335
+California,All civilians hit by police gunfire (URSUS),2245,59.198218262806236
+California,Officer count recorded,2244,59.180035650623886
+California,"White, Black, or Hispanic",2106,58.68945868945868
+California,Wound region recorded,2073,58.417752050168836
+California,Age recorded,2060,58.39805825242719
+California,Gender recorded (regression sample),2057,58.385999027710255
+Pooled,TX + CA regression samples,3959,

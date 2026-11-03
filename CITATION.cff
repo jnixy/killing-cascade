@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the article."
+title: "The Killing Cascade: Replication Materials"
+authors:
+  - family-names: Nix
+    given-names: Justin
+    affiliation: University of Nebraska Omaha
+  - family-names: Adams
+    given-names: Ian T.
+    affiliation: University of South Carolina
+repository-code: "https://github.com/jnixy/killing-cascade"
+license: MIT
+preferred-citation:
+  type: article
+  title: "The Killing Cascade: More Officers, More Wounds, More Deaths in Police Shootings"
+  authors:
+    - family-names: Nix
+      given-names: Justin
+    - family-names: Adams
+      given-names: Ian T.
+  journal: "Police Quarterly"
+  year: 2026
+  status: in-press

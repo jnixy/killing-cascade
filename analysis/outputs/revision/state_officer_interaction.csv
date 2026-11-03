@@ -1,0 +1,2 @@
+interaction_coef_pp,interaction_se_pp,interaction_ci_lower,interaction_ci_upper,interaction_p,tx_slope_pp,ca_slope_pp,pooled_slope_pp,pooling_justified,N
+-0.8131633570567984,0.8635375827546224,-2.505665918552635,0.8793392044390381,0.346364037790697,3.7907720345531373,2.977608677496339,3.273199965643315,True,3959

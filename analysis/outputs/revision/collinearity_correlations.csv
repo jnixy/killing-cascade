@@ -1,0 +1,17 @@
+state,var1,var2,r
+Texas,Officer_Count,armed,0.10577078220472634
+Texas,Officer_Count,weapon_firearm,0.06166977199678387
+Texas,Officer_Count,officer_shot_by_civ,0.046402530924796494
+Texas,armed,weapon_firearm,0.1942915203118815
+Texas,armed,officer_shot_by_civ,0.05281427774274926
+Texas,weapon_firearm,officer_shot_by_civ,0.10631732522623061
+California,num_involved_officers,armed_assault,0.06780302174747037
+California,num_involved_officers,weapon_firearm,0.1618670143588397
+California,num_involved_officers,civ_fired_at_officer,0.26626053463664395
+California,num_involved_officers,civ_threat_firearm,0.01779382534979042
+California,armed_assault,weapon_firearm,0.13132216680620426
+California,armed_assault,civ_fired_at_officer,0.14793989633183802
+California,armed_assault,civ_threat_firearm,0.07886421551415011
+California,weapon_firearm,civ_fired_at_officer,0.5085813798710257
+California,weapon_firearm,civ_threat_firearm,0.3712112419436519
+California,civ_fired_at_officer,civ_threat_firearm,-0.10379463000806945

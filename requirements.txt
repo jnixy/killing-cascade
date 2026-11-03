@@ -1,0 +1,12 @@
+# Versions used to produce the published results (Python 3.13)
+pandas==3.0.3
+numpy==2.4.4
+scipy==1.18.1
+statsmodels==0.15.0
+matplotlib==3.10.9
+# County maps only (create_map_panels.py)
+geopandas==1.2.0
+adjustText==1.4.0
+# Raw-data build scripts only (00_*.py; not run by run_all.py)
+requests
+pypdf

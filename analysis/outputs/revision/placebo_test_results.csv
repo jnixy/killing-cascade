@@ -1,0 +1,29 @@
+state,outcome,type,officer_coef,ci_lower,ci_upper,p_value,unit,direction,n,n_clusters
+Texas,age_10yr,demographic,0.06427978827221606,0.02415160429183836,0.10440797225259377,0.0016918407983079328,decades per +1 officer,more likely with more officers,1902,489
+Texas,female,demographic,0.12205231908495703,-0.9772396108759798,1.2213442490458937,0.8277321185132323,pp per +1 officer,more likely with more officers,1902,489
+Texas,race_black,demographic,0.4524246703245928,-0.8824894787348679,1.7873388193840538,0.5065210475598442,pp per +1 officer,more likely with more officers,1902,489
+Texas,race_hispanic,demographic,-0.9684329363409435,-2.420585395570201,0.4837195228883139,0.19118221288598125,pp per +1 officer,less likely with more officers,1902,489
+Texas,armed,severity marker,2.242792482349436,1.2514108056846611,3.234174159014211,9.249796882146639e-06,pp per +1 officer,more likely with more officers,1902,489
+Texas,officer_shot_by_civ,severity marker,0.8051567521385932,-0.28647058127898256,1.896784085556169,0.14828383177600454,pp per +1 officer,more likely with more officers,1902,489
+Texas,weapon_firearm,severity marker,2.6473453913913385,1.53732209048095,3.7573686923017275,2.948029775305243e-06,pp per +1 officer,more likely with more officers,1902,489
+Texas (agency FE),age_10yr,demographic,0.04961472301752259,-0.002315438848159733,0.1015448848832049,0.06112723632422901,decades per +1 officer,more likely with more officers,1902,489
+Texas (agency FE),female,demographic,0.018556263666225748,-1.454005852528225,1.4911183798606766,0.980295704477536,pp per +1 officer,more likely with more officers,1902,489
+Texas (agency FE),race_black,demographic,0.030361192306191755,-1.4357078186107166,1.4964302032231,0.9676232445914739,pp per +1 officer,more likely with more officers,1902,489
+Texas (agency FE),race_hispanic,demographic,-0.040066000950136925,-1.9610829644655634,1.8809509625652896,0.9673929124582332,pp per +1 officer,less likely with more officers,1902,489
+Texas (agency FE),armed,severity marker,2.056305838623684,0.8524134982981104,3.2601981789492576,0.0008148150530873161,pp per +1 officer,more likely with more officers,1902,489
+Texas (agency FE),officer_shot_by_civ,severity marker,0.653028720821124,-0.8102214922127728,2.1162789338550207,0.3817342543516651,pp per +1 officer,more likely with more officers,1902,489
+Texas (agency FE),weapon_firearm,severity marker,2.8042321263079186,1.1730250992416664,4.435439153374171,0.000753311799593616,pp per +1 officer,more likely with more officers,1902,489
+California,age_10yr,demographic,0.043935200511675945,0.007505064553957705,0.08036533646939419,0.018091449230717843,decades per +1 officer,more likely with more officers,2057,269
+California,female,demographic,-0.48622091154222336,-0.8717114677372761,-0.10073035534717058,0.013431777407241963,pp per +1 officer,less likely with more officers,2057,269
+California,race_black,demographic,-0.9502977748561854,-1.5323956951741577,-0.36819985453821297,0.0013756193055089062,pp per +1 officer,less likely with more officers,2057,269
+California,race_hispanic,demographic,-0.03799481306072316,-1.171565371809485,1.0955757456880386,0.947621673514131,pp per +1 officer,less likely with more officers,2057,269
+California,armed_assault,severity marker,1.5095471908212303,0.6915750181659307,2.32751936347653,0.00029796304672487635,pp per +1 officer,more likely with more officers,2057,269
+California,civ_fired_at_officer,severity marker,5.568543575958738,4.385913940288084,6.751173211629391,2.7391305474787255e-20,pp per +1 officer,more likely with more officers,2057,269
+California,weapon_firearm,severity marker,4.211007139433671,2.986865309375233,5.435148969492109,1.5599447376159667e-11,pp per +1 officer,more likely with more officers,2057,269
+California (agency FE),age_10yr,demographic,0.037118014305673776,-0.00400647944472967,0.07824250805607721,0.07689086455429545,decades per +1 officer,more likely with more officers,2057,269
+California (agency FE),female,demographic,-0.39047869635044785,-0.8134177903411633,0.032460397640267674,0.07036752844728245,pp per +1 officer,less likely with more officers,2057,269
+California (agency FE),race_black,demographic,-0.9238075036398588,-1.5807372073365658,-0.2668777999431518,0.005847728660748413,pp per +1 officer,less likely with more officers,2057,269
+California (agency FE),race_hispanic,demographic,0.3000035636272843,-0.9336334316435922,1.533640558898161,0.6336211259413131,pp per +1 officer,more likely with more officers,2057,269
+California (agency FE),armed_assault,severity marker,1.4325738511344113,0.5302417861596594,2.334905916109163,0.0018600890985418443,pp per +1 officer,more likely with more officers,2057,269
+California (agency FE),civ_fired_at_officer,severity marker,5.640030818819772,4.2337371909458215,7.046324446693723,3.824158973580477e-15,pp per +1 officer,more likely with more officers,2057,269
+California (agency FE),weapon_firearm,severity marker,4.015150358114884,2.605540421002848,5.4247602952269185,2.366964326105709e-08,pp per +1 officer,more likely with more officers,2057,269

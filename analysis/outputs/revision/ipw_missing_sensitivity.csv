@@ -1,0 +1,2 @@
+model,n,n_missing_in_scope,officer_coef,ci_lower,ci_upper,black_coef,max_weight
+"CA M4, IPW for missing wound/age/gender",2057,49,3.164450382047946,2.0456230966741984,4.283277667421694,-2.096025788213228,1.0907343616532832
